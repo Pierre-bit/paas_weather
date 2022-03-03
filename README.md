@@ -1,5 +1,5 @@
 Projet utiliser dans la cadre de la formation DevOps
-Permettant la découverte d'une applciation en React 
+Permettant la découverte d'une application en React 
 
 # Getting Started with Create React App
 
