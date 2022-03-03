@@ -1,3 +1,6 @@
+Projet utiliser dans la cadre de la formation DevoPS 
+Permettant la découverte d'une applciation en React 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
